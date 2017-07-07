@@ -1,0 +1,8 @@
+{
+    "ip":"192.168.1.1",
+    "port":4243,
+    "token":"look in /var/lib/crashplan/.ui_info",
+    "username":"user",
+    "userfolder":"C:\\Users\\user",
+    "userdesktop":"C:\\Users\\user\\Desktop"
+}
